@@ -1,0 +1,46 @@
+body{
+	background-color: #d9c6a0;
+	font-family: arial;
+	font-size: 14px;
+	background-image: url(https://image.freepik.com/free-photo/nature-design-with-bokeh-effect_1048-1882.jpg);
+	background-repeat:no-repeat;
+
+}
+
+img{
+	width:200px;
+}
+
+
+
+body, .S_page {
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Sansita', sans-serif;	
+}
+
+h2{
+	font-family: 'Sansita', sans-serif;	
+	font-size: 20px;
+	font color: black;
+}
+
+h3{
+	font-family: 'Sansita', sans-serif;	
+	font-size: 20px;
+}
+
+h4{
+	font-family: 'Sansita', sans-serif;	
+	font-size: 20px;
+}
+
+h5{
+	text-align: center;
+	font size: 40px;
+}
